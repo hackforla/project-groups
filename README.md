@@ -1,5 +1,12 @@
 # project-groups
 
+## Civic Hack Night Projects
+
+Name  | Status | Type | Contact |  Needs |
+---- | ---- | ----| ----| ----| ----|
+[FoodOasisLA (FOLA)](https://github.com/foodoasisla/) | Prototype Up | Web App | @joshuazrobins | |
+
+## Community Projects
 
 Name  | Status | Type | Contact |  Needs |
 ---- | ---- | ----| ----| ----| ----|
