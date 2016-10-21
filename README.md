@@ -11,8 +11,8 @@ Name  | Status | Type | Contact |  Needs |
 
 Name  | Status | Type | Contact |  Needs |
 ---- | ---- | ----| ----| ----| ----|
-[Pool party](https://github.com/maptimeLA/projectLA)  | Back-end needs work | App | @machiko #maps | Back-end development, Mapping, Transit Data aggregating, UX/UI designing, Testing |
-[Mapping old LA restaurants](https://github.com/maptimeLA/old-la-restaurants)  | Data cleaning | Static | @machiko #maps | Beginners interested in learning how to use Git, HTML, CSS, JS and exciting about mapping |
+[Pool party](https://github.com/maptimeLA/projectLA)  | Back-end needs work | App | @machiko #maps | ~~Back-end development, Mapping, Transit Data aggregating, UX/UI designing, Testing~~ Project is retired. |
+[Mapping old LA restaurants](https://github.com/maptimeLA/old-la-restaurants)  | Data cleaning | Static | @machiko #maps | ~~Beginners interested in learning how to use Git, HTML, CSS, JS and exciting about mapping~~  [Project is complete] 🎊(http://maptimela.github.io/old-la-restaurants/) |
 [Hack for LA Data Analysis](https://github.com/Nixonite/HackForLA-Data-Analysis) | Data analysis | Static | @allens #data-analysis | |
 Ohana/Open Referral ([API](https://github.com/hackforla/ohana-api-la), [Frontend](https://github.com/hackforla/ohana-web-search-la)) | Everything needs work 😣 | API/Web App | @md5 #ohana | Back-end development, Front-end development, UX/UI design, Testing
 
