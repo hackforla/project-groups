@@ -16,7 +16,9 @@ Name  | Status | Type | Contact |  Needs |
 [Hack for LA Data Analysis](https://github.com/Nixonite/HackForLA-Data-Analysis) | Data analysis | Static | @allens #data-analysis | |
 Ohana/Open Referral ([API](https://github.com/hackforla/ohana-api-la), [Frontend](https://github.com/hackforla/ohana-web-search-la)) | Everything needs work 😣 | API/Web App | @md5 #ohana | Back-end development, Front-end development, UX/UI design, Testing
 
-## Pickup Projects
+## #smallprojects
+
+Small projects reusable across cities, as discussed at the 2016 Code For America Summit.  See [CodeForPittsburgh/smallprojects](https://github.com/CodeForPittsburgh/smallprojects)
 
 Name  | Status | Type | Contact |  Needs |
 ---- | ---- | ----| ----| ----| ----|
