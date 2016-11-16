@@ -5,7 +5,7 @@
 Name  | Status | Type | Contact |  Needs |
 ---- | ---- | ----| ----| ----| ----|
 [FoodOasisLA (FOLA)](https://github.com/foodoasisla/) | Prototype Up | Web App | @joshuazrobins | |
-[LA Homeless Data](https://github.com/dfmcmurray/la-homeless-data) | Finding a community sponsor | Data Analysis/visualization | @donovankeith | |
+[LA Homeless Data](https://github.com/dfmcmurray/la-homeless-data) | Talking to [LAHSA](https://www.lahsa.org/) | Data Analysis/visualization | @donovankeith | |
 
 ## Community Projects
 
