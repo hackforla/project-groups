@@ -24,6 +24,11 @@ Name  | Status | Type | Contact |  Needs |
 ---- | ---- | ----| ----| ----| ----|
 Create document listing Twitter handles for all local politicians, agencies, etc. | | Research | @matikin9 | Anyone |
 Research possible "Adopt-A" project ideas for LA | | Research | @matikin9 | Anyone |
+
+## Other Project Ideas
+
+Name  | Status | Type | Contact |  Needs |
+---- | ---- | ----| ----| ----| ----|
 Create interactive map of street sweeping schedules | | Map | @matikin9 | Developers |
 Nursing Home Comparison Map ([ChiHackNight](https://github.com/chihacknight/breakout-groups/issues/6)) | | Map, Data | @matikin9 | Developers
 
