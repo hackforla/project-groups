@@ -10,6 +10,7 @@ Name  | Status | Type | Contact |  Needs |
 [LA Homeless Data](https://github.com/dfmcmurray/la-homeless-data) | Hibernating/Talking to [LAHSA](https://www.lahsa.org/) | Data Analysis/visualization | @donovankeith | |
 [CA Jobs Schema](https://github.com/hunterowens/ca-jobs-schema) | Ongoing | Schema | @hunterowens | NLP, Machine Learning, Data Scraping/Cleanup ([Issues](https://github.com/josephlei/ca-jobs-schema/issues)) |
 Spring Street Park Logo | taking submissions | graphical logo design | Amanda | Graphic Designer |
+[CurbMap (Parking)](https://github.com/eselkin/CurbMap) | Ongoing | Web App | @eselkin @joshuaherman | parking resources, developers, designers, anyone at all... |
 
 ### #smallprojects
 
