@@ -18,7 +18,7 @@ Small projects reusable across cities, as discussed at the 2016 Code For America
 
 Name  | Status | Type | Contact |  Needs |
 ---- | ---- | ----| ----| ----| ----|
-Create document listing Twitter handles for all local politicians, agencies, etc. | | Research | @matikin9 | Anyone |
+[LA-Twitter](https://github.com/hackforla/la-twitter/) | Ongoing | Research | @matikin9 | Beginner friendly |
 Research possible "Adopt-A" project ideas for LA | | Research | @matikin9 | Anyone |
 
 ## Other
