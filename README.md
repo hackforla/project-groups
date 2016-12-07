@@ -6,10 +6,10 @@
 
 Name  | Status | Type | Contact |  Needs |
 ---- | ---- | ----| ----| ----| ----|
-[FoodOasisLA (FOLA)](https://github.com/foodoasisla/) | Prototype Up | Web App | @joshuazrobins | |
+[FoodOasisLA (FOLA)](https://github.com/foodoasisla/) | Prototype Up | Web App | @joshuazrobins |  |
 [LA Homeless Data](https://github.com/dfmcmurray/la-homeless-data) | Hibernating/Talking to [LAHSA](https://www.lahsa.org/) | Data Analysis/visualization | @donovankeith | |
 [CA Jobs Schema](https://github.com/hunterowens/ca-jobs-schema) | Ongoing | Schema | @hunterowens | NLP, Machine Learning, Data Scraping/Cleanup ([Issues](https://github.com/josephlei/ca-jobs-schema/issues)) |
-Spring Street Park Logo | taking submissions | graphical logo design | Amanda | Graphic Designer |
+[Friends of Spring Street Park - Logo](https://www.pinterest.com/Amandamcg25/friends-of-spring-street-park/) | Ongoing | logo design | @amandamcg | Graphic Designers |
 [CurbMap (Parking)](https://github.com/eselkin/CurbMap) | Ongoing | Web App | @joshuaherman @eselkin | parking resources, developers, designers, anyone at all... |
 
 ### #smallprojects
