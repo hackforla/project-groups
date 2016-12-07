@@ -7,8 +7,9 @@
 Name  | Status | Type | Contact |  Needs |
 ---- | ---- | ----| ----| ----| ----|
 [FoodOasisLA (FOLA)](https://github.com/foodoasisla/) | Prototype Up | Web App | @joshuazrobins | |
-[LA Homeless Data](https://github.com/dfmcmurray/la-homeless-data) | Talking to [LAHSA](https://www.lahsa.org/) | Data Analysis/visualization | @donovankeith | |
+[LA Homeless Data](https://github.com/dfmcmurray/la-homeless-data) | Hibernating/Talking to [LAHSA](https://www.lahsa.org/) | Data Analysis/visualization | @donovankeith | |
 [CA Jobs Schema](https://github.com/hunterowens/ca-jobs-schema) | Ongoing | Schema | @hunterowens | NLP, Machine Learning, Data Scraping/Cleanup |
+Spring Street Park Logo | taking submissions | graphical logo design | Amanda | Graphic Designer |
 
 ### #smallprojects
 
