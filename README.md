@@ -6,11 +6,12 @@
 
 Name  | Status | Type | Contact |  Needs |
 ---- | ---- | ----| ----| ----| ----|
-[FoodOasisLA (FOLA)](https://github.com/foodoasisla/) | Prototype Up | Web App | @joshuazrobins |  |
+[FoodOasisLA (FOLA)](https://github.com/foodoasisla/) | Prototype Up | Web App | @joshuazrobins | [Website](http://foodoasis.la) |
 [LA Homeless Data](https://github.com/dfmcmurray/la-homeless-data) | Hibernating/Talking to [LAHSA](https://www.lahsa.org/) | Data Analysis/visualization | @donovankeith | |
 [CA Jobs Schema](https://github.com/hunterowens/ca-jobs-schema) | Ongoing | Schema | @hunterowens | NLP, Machine Learning, Data Scraping/Cleanup ([Issues](https://github.com/josephlei/ca-jobs-schema/issues)) |
-[Friends of Spring Street Park - Logo](https://www.pinterest.com/Amandamcg25/friends-of-spring-street-park/) | Ongoing | logo design | @amandamcg | Graphic Designers |
+[Friends of Spring Street Park - Logo](https://www.pinterest.com/Amandamcg25/friends-of-spring-street-park/) | In Progress | logo design | @amandamcg |  |
 [CurbMap (Parking)](https://github.com/eselkin/CurbMap) | Ongoing | Web App | @joshuaherman @eselkin | parking resources, developers, designers, anyone at all... |
+[WorkForLA](http://github.com/hunterowens/workfor.la) | Phase 1 Complete | Static Website | @hunterowens @lhyman | Figure out how to work for the city of LA. [Website](http://workfor.la) | 
 
 ### #smallprojects
 
@@ -30,7 +31,6 @@ Name  | Status | Type | Contact |  Needs |
 [Mapping old LA restaurants](https://github.com/maptimeLA/old-la-restaurants)  | Data cleaning | Static | @machiko #maps | ~~Beginners interested in learning how to use Git, HTML, CSS, JS and exciting about mapping~~   [Project is complete] (http://maptimela.github.io/old-la-restaurants/) 🎊🎊 |
 [Hack for LA Data Analysis](https://github.com/Nixonite/HackForLA-Data-Analysis) | Data analysis | Static | @allens #data-analysis | |
 Ohana/Open Referral ([API](https://github.com/hackforla/ohana-api-la), [Frontend](https://github.com/hackforla/ohana-web-search-la)) | Everything needs work 😣 | API/Web App | @md5 #ohana | Back-end development, Front-end development, UX/UI design, Testing
-[WorkForLA](http://workfor.la) | [Repo](http://github.com/hunterowens/workfor.la) Figure out how to work for the city of LA | @hunterowens | Completed | 
 
 ## Contribute!
 
