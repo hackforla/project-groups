@@ -30,6 +30,7 @@ Name  | Status | Type | Contact |  Needs |
 [Mapping old LA restaurants](https://github.com/maptimeLA/old-la-restaurants)  | Data cleaning | Static | @machiko #maps | ~~Beginners interested in learning how to use Git, HTML, CSS, JS and exciting about mapping~~   [Project is complete] (http://maptimela.github.io/old-la-restaurants/) 🎊🎊 |
 [Hack for LA Data Analysis](https://github.com/Nixonite/HackForLA-Data-Analysis) | Data analysis | Static | @allens #data-analysis | |
 Ohana/Open Referral ([API](https://github.com/hackforla/ohana-api-la), [Frontend](https://github.com/hackforla/ohana-web-search-la)) | Everything needs work 😣 | API/Web App | @md5 #ohana | Back-end development, Front-end development, UX/UI design, Testing
+[WorkForLA](http://workfor.la) | [Repo](http://github.com/hunterowens/workfor.la) Figure out how to work for the city of LA | @hunterowens | Completed | 
 
 ## Contribute!
 
