@@ -12,6 +12,7 @@ Name  | Status | Type | Contact |  Needs |
 [Friends of Spring Street Park - Logo](https://www.pinterest.com/Amandamcg25/friends-of-spring-street-park/) | In Progress | logo design | @amandamcg |  |
 [CurbMap (Parking)](https://github.com/eselkin/CurbMap) | Ongoing | Web App | @joshuaherman @eselkin | parking resources, developers, designers, anyone at all... |
 [WorkForLA](http://github.com/hunterowens/workfor.la) | Phase 1 Complete | Static Website | @hunterowens @lhyman | Figure out how to work for the city of LA. [Website](http://workfor.la) | 
+[Adopt-A-CivicArt](https://github.com/hackforla/adopt-civic-art) | Design/Research | Web App | @matikin9 | Frontend/backend developers, Graphic Designers |
 
 ### #smallprojects
 
