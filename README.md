@@ -5,7 +5,7 @@
 ### Civic Hack Nights
 
 | Name | Status | Type | Contact |  Needs |
-| ---- | ---- | ---- | ---- | ---- | ---- |
+| ---- | ------ | ---- | ------- | ------ |
 | [FoodOasisLA (FOLA)](https://github.com/foodoasisla/) | Prototype Up | Web App | @joshuazrobins | [Website](http://foodoasis.la) |
 | [LA Homeless Data](https://github.com/dfmcmurray/la-homeless-data) | Hibernating/Talking to [LAHSA](https://www.lahsa.org/) | Data Analysis/visualization | @donovankeith | |
 | [CA Jobs Schema](https://github.com/hunterowens/ca-jobs-schema) | Ongoing | Schema | @hunterowens | NLP, Machine Learning, Data Scraping/Cleanup ([Issues](https://github.com/josephlei/ca-jobs-schema/issues)) |
@@ -18,16 +18,16 @@
 
 Small projects reusable across cities, as discussed at the 2016 Code For America Summit.  See [CodeForPittsburgh/smallprojects](https://github.com/CodeForPittsburgh/smallprojects)
 
-| Name  | Status | Type | Contact |  Needs |
-| ---- | ---- | ----| ----| ----| ----|
+| Name | Status | Type | Contact | Needs |
+| ---- | ------ | ---- | ------- | ----- |
 | [LA-Twitter](https://github.com/hackforla/la-twitter/) | Ongoing | Research | @matikin9 | Beginner friendly |
 
 ## Other
 
 ### Community Projects
 
-| Name  | Status | Type | Contact |  Needs |
-| ---- | ---- | ----| ----| ----| ----|
+| Name | Status | Type | Contact | Needs |
+| ---- | ------ | ---- | ------- | ----- |
 | [Pool party](https://github.com/maptimeLA/projectLA)  | Back-end needs work | App | @machiko #maps | ~~Back-end development, Mapping, Transit Data aggregating, UX/UI designing, Testing~~ Project is retired.  |
 | [Mapping old LA restaurants](https://github.com/maptimeLA/old-la-restaurants)  | Data cleaning | Static | @machiko #maps | ~~Beginners interested in learning how to use Git, HTML, CSS, JS and exciting about mapping~~   [Project is complete] (http://maptimela.github.io/old-la-restaurants/) 🎊🎊 |
 | [Hack for LA Data Analysis](https://github.com/Nixonite/HackForLA-Data-Analysis) | Data analysis | Static | @allens #data-analysis | |
