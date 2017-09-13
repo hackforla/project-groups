@@ -11,7 +11,8 @@
 | [CA Jobs Schema](https://github.com/hunterowens/ca-jobs-schema) | Ongoing | Schema | @hunterowens | NLP, Machine Learning, Data Scraping/Cleanup ([Issues](https://github.com/josephlei/ca-jobs-schema/issues)) |
 | [Friends of Spring Street Park - Logo](https://www.pinterest.com/Amandamcg25/friends-of-spring-street-park/) | In Progress | logo design | @amandamcg |  |
 | [LA Street Data](https://github.com/hackforla/la-street-data) | Ongoing | Web App | @joshuaherman, @eselkin | parking resources, developers, designers, anyone at all... |
-| [WorkForLA](http://github.com/hunterowens/workfor.la) | Phase 1 Complete | Static Website | @hunterowens @lhyman | Figure out how to work for the city of LA. [Website](http://workfor.la) | 
+| [WorkForLA](http://github.com/alexchao/workforla) | Ongoing | Web App | @lhyman | Figure out how to work for the city of LA. |
+| [WorkForLA](http://github.com/hunterowens/workfor.la) / OLD | Phase 1 Complete | Static Website | @hunterowens @lhyman | Figure out how to work for the city of LA. [Website](http://workfor.la) | 
 | [Adopt-A-CivicArt](https://github.com/hackforla/adopt-civic-art) | Design/Research | Web App | @matikin9 | Frontend/backend developers, Graphic Designers |
 
 ### #smallprojects
